@@ -29,8 +29,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 5
 
 <h2 >Configuration Steps</h2>
-
+Congratulations on installing osticket, now we will demonstrate post confiuration of osticket.
 <p>
+  
+So now we are going to use the Admin panel to create a supreme admin that would have access to creating a ticketing system, defining roles, and SLA.
+We will also create agents and tickets so we can solve them or redirect them to the proper department to resolve any issues a customer would have using help desk. 
 <img src =" https://i.imgur.com/DJmEXEB.png" height= "80%" width = "80%" alt = "Disk Sanitization Steps" />
 </p>
 <p>
