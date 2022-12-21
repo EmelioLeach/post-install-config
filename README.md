@@ -53,10 +53,10 @@ Also we will have to set up agents so that they can have access to respond to pe
 <img src =https://i.imgur.com/epDTNdF.png height="80% "width="80%"alt = "Disk Sanitization Steps" / >
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, but do the labor of hismod tempor and vitality, so that the pain of some important things. Over the years I come, who can exercise a cruff of work, but for to aliquip of it, please nostrud and longevity. Duis eu, however, the pain of the hair, the pain in the flee from the blame on the pleasure of no one wants to be a manufacturers.
+Next we can add users so that they can create/check tickets using there email threw help desk, also this would make it easier to find tickets for specific users in User DIrectory. You will have to leave admin panal ad go to Agent Panel->Users->User Directory->Add new. 
 </p>
 <br />
-<img src = "https://i.imgur.com/DJmEXEB.png" height="80% "width="80%"alt = "Disk Sanitization Steps" / >
+<img src =https://i.imgur.com/NChjzJY.png height="80% "width="80%"alt = "Disk Sanitization Steps" / >
 <p>
 <img src = "https://i.imgur.com/DJmEXEB.png" height="80% "width="80%"alt = "Disk Sanitization Steps" / >
 </p>
