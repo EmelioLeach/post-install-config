@@ -43,20 +43,20 @@ We will create a System Administrators department so that tickets can be routed 
 <img src =https://i.imgur.com/s4TIQ8Q.png height= "80%" width = "80%" alt = "Disk Sanitization Steps" />
 </p>
 <p>
-<img src = https://i.imgur.com/eR3QK9s.png height="80% "width="80%"alt = "Disk Sanitization Steps" / >
+Once we setup System Admin we will create teams for the agents and organize them to handle specific issues to be resolved.    
 </p>
 <br />
-
+<img src =https://i.imgur.com/9SRBLx9.png height="80% "width="80%"alt = "Disk Sanitization Steps" / >
 <p>
 <img src = "https://i.imgur.com/DJmEXEB.png" height="80% "width="80%"alt = "Disk Sanitization Steps" / >
-</p><img src =https://i.imgur.com/s4TIQ8Q.png height= "80%" width = "80%" alt = "Disk Sanitization Steps" />
+</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, but do the labor of hismod tempor and vitality, so that the pain of some important things. Over the years I come, who can exercise a cruff of work, but for to aliquip of it, please nostrud and longevity. Duis eu, however, the pain of the hair, the pain in the flee from the blame on the pleasure of no one wants to be a manufacturers.
 </p>
 <br />
 
 <p>
-<img src =" https://i.imgur.com/DJmEXEB.png" height= "80%" width = "80%" alt = "Disk Sanitization Steps" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, but do the labor of hismod tempor and vitality, so that the pain of some important things. Over the years I come, who can exercise a cruff of work, but for to aliquip of it, please nostrud and longevity. Duis eu, however, the pain of the hair, the pain in the flee from the blame on the pleasure of no one wants to be a manufacturers.
