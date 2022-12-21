@@ -33,7 +33,9 @@ Congratulations on installing osticket, now we will demonstrate post confiuratio
 <p>
   
 So now we are going to use the Admin panel to create a supreme admin that would have access to creating a ticketing system, defining roles, and SLA.
-We will also create agents and tickets so we can solve them or redirect them to the proper department to resolve any issues a customer would have using help desk. In order to set this up we will have to go to Admin panel> Agents> Roles. Also roles are permissions granted to Agents in each department, you can customize roles for specific deparments.  
+We will also create agents and tickets so we can solve them or redirect them to the proper department to resolve any issues a customer would have using help desk. In order to set this up we will have to go to Admin panel> Agents> Roles. Also roles are permissions granted to Agents in each department, you can customize roles for specific departments.
+<p>
+We will create a department so that tickets can be routed through the departments while using help desk, also there are many diffrenet settings in each department can use or have access to. 
 <img src =" https://i.imgur.com/DJmEXEB.png" height= "80%" width = "80%" alt = "Disk Sanitization Steps" />
 </p>
 <p>
