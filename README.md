@@ -48,6 +48,8 @@ Once we setup System Admin we will create teams for the agents and organize them
 <br />
 <img src =https://i.imgur.com/9SRBLx9.png height="80% "width="80%"alt = "Disk Sanitization Steps" / >
 <p>
+Also we will have to set up agents so that they can have access to respond to people/tickets in the help desk. Agents will have Primary roles in whatever Primary department they are assigned to and might extended access to other departments, which can be configured in the access tab of the agent's profile.
+  
 <img src = "https://i.imgur.com/DJmEXEB.png" height="80% "width="80%"alt = "Disk Sanitization Steps" / >
 </p>
 <p>
