@@ -61,6 +61,7 @@ Next we can add users so that they can create/check tickets using there email th
 <img src = "https://i.imgur.com/DJmEXEB.png" height="80% "width="80%"alt = "Disk Sanitization Steps" / >
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, but do the labor of hismod tempor and vitality, so that the pain of some important things. Over the years I come, who can exercise a cruff of work, but for to aliquip of it, please nostrud and longevity. Duis eu, however, the pain of the hair, the pain in the flee from the blame on the pleasure of no one wants to be a manufacturers.
+Now service level agreements is basically how long a ticket can be open and you can also have an unlimited amount of tickets aswell. You will have to go to Admin panel > Manage > SLA to have access to this.
 </p>
 <br />
+<img src = https://i.imgur.com/5ok50Uk.png height="80% "width="80%"alt = "Disk Sanitization Steps" / >
