@@ -66,4 +66,4 @@ Now service level agreements is basically how long a ticket can be open and you 
 <img src = https://i.imgur.com/5ok50Uk.png height="80% "width="80%"alt = "Disk Sanitization Steps" / >
 </p>
 <br />
-Help topics helps you categorize whatever issue somebody is having threw a ticket with the correct department, for example a password reset or a personal computer issue.Also to access this you must go to Admin panel > Manage > Help Topics.
+Help topics helps you categorize whatever issue somebody is having threw a ticket with the correct department, for example a password reset or a personal computer issue, these are two different types of help topics. Also to access this you must go to Admin panel > Manage > Help Topics.
